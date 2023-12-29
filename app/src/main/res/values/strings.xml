@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="forest">Dark nights in forest</string>
+    <string name="desktop">Programming Mode</string>
+    <string name="gaming">Racing Car Game</string>
+    <string name="des1">Beautiful</string>
+    <string name="des2">setup desktop</string>
+    <string name="des3">gamehub</string>
+</resources>
